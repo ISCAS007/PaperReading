@@ -2,5 +2,9 @@
 Computer Vision Paper Reading for ISCAS
 
 # 2017/09/13
-- [SSD Series]()
-- [???]()
+- [SSD Series]() 王佳欣，关于目标检测SSD系列
+- [???]() 郑文勇，关于人体姿态估计
+
+# 2017/08/21
+- [YOLO 9000]() 王佳欣,关于目标检测YOLO9000
+- [???]() 郑文勇，关于人体姿态估计
