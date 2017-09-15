@@ -2,6 +2,7 @@
 Computer Vision Paper Reading for ISCAS
 # History Documence
 [科研在线团队文档库](http://ddl.escience.cn/iscas007)
+据说：163邮箱，教育网邮箱可以注册，QQ邮箱不能注册，国科大邮箱可以直接登录。
 
 # 2017/09/13
 - [SSD Series](http://ddl.escience.cn/f/O08Z) 王佳欣，关于目标检测SSD系列
