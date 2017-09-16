@@ -8,3 +8,4 @@
 - [github Paper Collection](https://github.com/sunshineatnoon/Paper-Collection#object-detection-in-image)
 - [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision)
 - [csdn 目标检测资料汇总](http://blog.csdn.net/qq_26898461/article/details/59483864)
+- [awesome-object-proposals](https://github.com/caocuong0306/awesome-object-proposals)
