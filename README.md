@@ -4,8 +4,13 @@ Computer Vision Paper Reading for ISCAS
 [科研在线团队文档库](http://ddl.escience.cn/iscas007)
 据说：163邮箱，教育网邮箱可以注册，QQ邮箱不能注册，国科大邮箱可以直接登录。
 
-# 2017/09/18
+# next time
 - [Faster-RCNN Series](http://ddl.escience.cn/f/PbV8) 王佳欣，关于目标检测Faster-RCNN系列
+
+# 2017/09/18
+- [Learning to Predict Indoor Illuminationfrom a Single Image](http://ddl.escience.cn/iscas007/r/9778968) slide, 程大川，光源估计，场景重建
+- [Learning to Predict Indoor Illuminationfrom a Single Image](http://ddl.escience.cn/iscas007/r/9778963) paper
+- [Recurrent Denising Autoencoder](http://ddl.escience.cn/iscas007/r/9779008) slide, 石剑，场景重建
 
 # 2017/09/13
 - [SSD Series](http://ddl.escience.cn/f/O08Z) 王佳欣，关于目标检测SSD系列
