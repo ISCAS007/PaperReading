@@ -11,6 +11,8 @@ Computer Vision Paper Reading for ISCAS
 - [Learning to Predict Indoor Illuminationfrom a Single Image](http://ddl.escience.cn/iscas007/r/9778968) slide, 程大川，光源估计，场景重建
 - [Learning to Predict Indoor Illuminationfrom a Single Image](http://ddl.escience.cn/iscas007/r/9778963) paper
 - [Recurrent Denising Autoencoder](http://ddl.escience.cn/iscas007/r/9779008) slide, 石剑，场景重建
+- [End-to-end 3D face reconstruction with deep neural networks](http://ddl.escience.cn/iscas007/r/9779470) slide,朱玉影,人脸3D重建
+- [End-to-end 3D face reconstruction with deep neural networks](http://ddl.escience.cn/iscas007/r/9779471) paper
 
 # 2017/09/13
 - [SSD Series](http://ddl.escience.cn/f/O08Z) 王佳欣，关于目标检测SSD系列
