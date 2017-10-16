@@ -5,6 +5,11 @@ Computer Vision Paper Reading for ISCAS
 据说：163邮箱，教育网邮箱可以注册，QQ邮箱不能注册，国科大邮箱可以直接登录。
 
 # next time
+
+# 2017/10/16
+- [RON: Reverse Connection with Objectness Prior Networks for Object Detection](http://ddl.escience.cn/f/PtRz) 王佳欣,關於目標檢測RON 網絡
+
+# 2017/09/25
 - [Faster-RCNN Series](http://ddl.escience.cn/f/PbV8) 王佳欣，关于目标检测Faster-RCNN系列
 
 # 2017/09/18
