@@ -9,8 +9,9 @@ Computer Vision Paper Reading for ISCAS
 - [Mask-RCNN作者报告，精细](http://ddl.escience.cn/f/PFEF)
 - https://github.com/Nikasa1889/HistoryObjectRecognition 参考网页
 
-# 2017/11/16 
-
+# 2017/11/20 
+- [How to Refine 3D Hand Pose Estimation from Unlabelled Depth Data.pptx](http://ddl.escience.cn/iscas007/r/9895748) 朱玉影
+- [How to Refine 3D Hand Pose Estimation from Unlabelled Depth Data.pdf](http://ddl.escience.cn/iscas007/r/9895749) 朱玉影
 
 # 2017/10/23 (CVPR 2017 deadline 之间paper reading 活动暂停)
 - [RON: Reverse Connection with Objectness Prior Networks for Object Detection](http://ddl.escience.cn/f/PtRz) 王佳欣,關於目標檢測RON 網絡
