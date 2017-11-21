@@ -10,8 +10,11 @@ Computer Vision Paper Reading for ISCAS
 - https://github.com/Nikasa1889/HistoryObjectRecognition 参考网页
 
 # 2017/11/20 
-- [How to Refine 3D Hand Pose Estimation from Unlabelled Depth Data.pptx](http://ddl.escience.cn/iscas007/r/9895748) 朱玉影
-- [How to Refine 3D Hand Pose Estimation from Unlabelled Depth Data.pdf](http://ddl.escience.cn/iscas007/r/9895749) 朱玉影
+- [How to Refine 3D Hand Pose Estimation from Unlabelled Depth Data.pptx](http://ddl.escience.cn/iscas007/r/9895748) 朱玉影，手势建模
+- [How to Refine 3D Hand Pose Estimation from Unlabelled Depth Data.pdf](http://ddl.escience.cn/iscas007/r/9895749) 朱玉影，手势建模
+- [Invariant Gait Feature Extraction](http://ddl.escience.cn/iscas007/r/9895885) 曲文天，步态识别
+- [Invariant feature extraction for gait recognition using only one uniform model](http://ddl.escience.cn/iscas007/r/9895886) 曲文天，步态识别
+- [GaitGAN: Invariant Gait Feature ExtractionUsing Generative Adversarial Networks](http://ddl.escience.cn/iscas007/r/9895887) 曲文天，步态识别
 
 # 2017/10/23 (CVPR 2017 deadline 之间paper reading 活动暂停)
 - [RON: Reverse Connection with Objectness Prior Networks for Object Detection](http://ddl.escience.cn/f/PtRz) 王佳欣,關於目標檢測RON 網絡
