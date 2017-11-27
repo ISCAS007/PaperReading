@@ -9,6 +9,10 @@ Computer Vision Paper Reading for ISCAS
 - [Mask-RCNN作者报告，精细](http://ddl.escience.cn/f/PFEF)
 - https://github.com/Nikasa1889/HistoryObjectRecognition 参考网页
 
+# 2017/11/27
+- [Focal Loss ppt](http://ddl.escience.cn/f/PIkm) 王佳欣，关于目标检测中的Focal Loss,解决样本分布不均匀的问题。
+- [Focal Loss paper](http://ddl.escience.cn/f/PIkl)
+
 # 2017/11/20 
 - [How to Refine 3D Hand Pose Estimation from Unlabelled Depth Data.pptx](http://ddl.escience.cn/iscas007/r/9895748) 朱玉影，手势建模
 - [How to Refine 3D Hand Pose Estimation from Unlabelled Depth Data.pdf](http://ddl.escience.cn/iscas007/r/9895749) 朱玉影，手势建模
