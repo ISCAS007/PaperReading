@@ -12,6 +12,7 @@ Computer Vision Paper Reading for ISCAS
 # 2017/11/27
 - [Focal Loss ppt](http://ddl.escience.cn/f/PIkm) 王佳欣，关于目标检测中的Focal Loss,解决样本分布不均匀的问题。
 - [Focal Loss paper](http://ddl.escience.cn/f/PIkl)
+- [V2V-PoseNet](http://ddl.escience.cn/iscas007/r/9771344) 郑文勇，人体姿态估计
 - [Year of Computer Vision)(http://ddl.escience.cn/f/PIkz) 石剑老师分享，2016-2017的CV重大进展
 
 # 2017/11/20 
