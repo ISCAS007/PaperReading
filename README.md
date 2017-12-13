@@ -5,9 +5,18 @@ Computer Vision Paper Reading for ISCAS
 >据说：163邮箱，教育网邮箱可以注册，QQ邮箱不能注册，国科大邮箱可以直接登录。
 
 # next time
+- [MaskX-RCNN slides](http://ddl.escience.cn/iscas007/r/9923011) 王佳欣 MaskX-RCNN
+- [MaskX-RCNN paper](http://ddl.escience.cn/iscas007/r/9923010)
+
+# 2017/12/11
 - [Mask-RCNN阅读报告，粗糙](http://ddl.escience.cn/f/PFEA) 王佳欣，关于目标分割Mask-RCNN网络的简介
 - [Mask-RCNN作者报告，精细](http://ddl.escience.cn/f/PFEF)
 - https://github.com/Nikasa1889/HistoryObjectRecognition 参考网页
+- [Neural Scene De-rendering](http://ddl.escience.cn/iscas007/r/9923012) 刘舫 场景重渲染
+
+# 2017/12/04
+- [A data augmentation methodology for training machinedeep learning gait recognition algorithms ppt](http://ddl.escience.cn/iscas007/r/9920530) 曲文天 步态识别数据集扩充
+- [A data augmentation methodology for training machinedeep learning gait recognition algorithms paper](http://ddl.escience.cn/iscas007/r/9920531)
 
 # 2017/11/27
 - [Focal Loss ppt](http://ddl.escience.cn/f/PIkm) 王佳欣，关于目标检测中的Focal Loss,解决样本分布不均匀的问题。
