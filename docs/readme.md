@@ -37,3 +37,6 @@ Newly published papers (< 6 months) which are worth reading
 # coding
 - [awesome-tensorflow](https://github.com/jtoy/awesome-tensorflow)
 - [awesome-tensorflow-Chinese](https://github.com/fendouai/Awesome-TensorFlow-Chinese)
+
+# class
+- [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://web.engr.illinois.edu/~slazebni/spring17/)
