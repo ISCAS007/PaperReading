@@ -1,12 +1,18 @@
 # PaperReading
 Computer Vision Paper Reading for ISCAS
 # History Documence
-[科研在线团队文档库](http://ddl.escience.cn/iscas007)
->据说：163邮箱，教育网邮箱可以注册，QQ邮箱不能注册，国科大邮箱可以直接登录。
+~[科研在线团队文档库](http://ddl.escience.cn/iscas007)~ 2017/12/19 后不再更新科研在线，改为百度网盘。因为科研在线上传有问题。
+>~据说：163邮箱，教育网邮箱可以注册，QQ邮箱不能注册，国科大邮箱可以直接登录。~
+[百度网盘文档库](https://pan.baidu.com/s/1bo7rcMr)
 
 # next time
+
+# 2017/12/18
 - [MaskX-RCNN slides](http://ddl.escience.cn/iscas007/r/9923011) 王佳欣 MaskX-RCNN
 - [MaskX-RCNN paper](http://ddl.escience.cn/iscas007/r/9923010)
+- [Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network](https://pan.baidu.com/s/1skXnanb) 朱玉影 pdf
+- [Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network](https://pan.baidu.com/s/1i4DQ1md) ppt
+- [Regressing Robust and Discriminative 3D Morphable Models with a very Deep Neural Network](https://pan.baidu.com/s/1dFjMHo9) pptpdf
 
 # 2017/12/11
 - [Mask-RCNN阅读报告，粗糙](http://ddl.escience.cn/f/PFEA) 王佳欣，关于目标分割Mask-RCNN网络的简介
