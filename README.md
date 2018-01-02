@@ -7,6 +7,10 @@ Computer Vision Paper Reading for ISCAS
 
 # next time
 
+# 2017 review
+- [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
+- [Deep learning Theoies](https://stats385.github.io/) From Empirical to Theory
+
 # 2017/12/18
 - [MaskX-RCNN slides](http://ddl.escience.cn/iscas007/r/9923011) 王佳欣 MaskX-RCNN
 - [MaskX-RCNN paper](http://ddl.escience.cn/iscas007/r/9923010)
