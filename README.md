@@ -11,6 +11,10 @@ Computer Vision Paper Reading for ISCAS
 - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
 - [Deep learning Theoies](https://stats385.github.io/) From Empirical to Theory
 
+# 2017/12/25
+- [Using a single RGB frame for real time 3D hand pose estimation in the wild](http://ddl.escience.cn/iscas007/r/9943314) 郑文勇 pptx
+- [Using a single RGB frame for real time 3D hand pose estimation in the wild](http://ddl.escience.cn/iscas007/r/9943315) 郑文勇 pdf
+
 # 2017/12/18
 - [MaskX-RCNN slides](http://ddl.escience.cn/iscas007/r/9923011) 王佳欣 MaskX-RCNN
 - [MaskX-RCNN paper](http://ddl.escience.cn/iscas007/r/9923010)
