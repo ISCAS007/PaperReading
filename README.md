@@ -8,8 +8,8 @@ Computer Vision Paper Reading for ISCAS
 # next time
 
 # 2018/01/02
-- []() 朱玉影 ppt
-- []() 朱玉影 pdf
+- [End-to-end Recovery of Human Shape and Pose](http://ddl.escience.cn/iscas007/r/9947106) 朱玉影 ppt
+- [End-to-end Recovery of Human Shape and Pose](http://ddl.escience.cn/iscas007/r/9947105) 朱玉影 pdf
 
 # 2017 review
 - [AI and Deep Learning in 2017 – A Year in Review](http://www.wildml.com/2017/12/ai-and-deep-learning-in-2017-a-year-in-review/)
