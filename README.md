@@ -5,15 +5,25 @@ Computer Vision Paper Reading for ISCAS
 >实测：163邮箱，教育网邮箱，QQ邮箱可以注册，国科大邮箱可以直接登录。
 如果点击注册没有反应，建议使用最新版本chrome浏览器。
 
+# next time
+- [GAN]()
+- [Semantic Segmentation]()
+
 # 2018/04/02
 - [Reinforcement Learning:Basic concepts](http://ddl.escience.cn/iscas007/r/10046265) 程大川 强化学习
 - [video lectures](http://videolectures.net/deeplearning2017_montreal/)
 
+# 2018/03/23
+- [Geometric deep learning on graphs and manifolds using mixture model CNNs](http://ddl.escience.cn/iscas007/r/10047334) 朱玉影 slides
+- [Geometric deep learning on graphs and manifolds using mixture model CNNs](http://ddl.escience.cn/iscas007/r/10047333) 朱玉影 pdf
+
+# 2018/03/18
+- [Pose Guided Person Image Generation](http://ddl.escience.cn/iscas007/r/10033924) 曲文天 slides
+- [Pose Guided Person Image Generation](http://ddl.escience.cn/iscas007/r/10033923) pdf
+
 # 2018/03/11
 - [DracNets pptx](http://ddl.escience.cn/iscas007/r/10029660) 王佳欣 slides
 - DiracNets: Training Very Deep Neural Networks Without Skip-Connections 2018
-- [Geometric deep learning on graphs and manifolds using mixture model CNNs](http://ddl.escience.cn/iscas007/r/10047334) 朱玉影 slides
-- [Geometric deep learning on graphs and manifolds using mixture model CNNs](http://ddl.escience.cn/iscas007/r/10047333) 朱玉影 pdf
 
 # 2018/02/27
 - [DenseNet](http://ddl.escience.cn/iscas007/r/9943614) 王佳欣 paper
