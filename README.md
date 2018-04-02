@@ -7,6 +7,7 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/04/02
 - [Reinforcement Learning:Basic concepts](http://ddl.escience.cn/iscas007/r/10046265) 程大川 强化学习
+- [video lectures](http://videolectures.net/deeplearning2017_montreal/)
 
 # 2018/03/11
 - [DracNets pptx](http://ddl.escience.cn/iscas007/r/10029660) 王佳欣 slides
