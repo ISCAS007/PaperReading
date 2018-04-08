@@ -7,7 +7,7 @@ Computer Vision Paper Reading for ISCAS
 
 # next time
 - [GAN]()
-- [Semantic Segmentation]()
+- [Semantic Segmentation](http://ddl.escience.cn/iscas007/r/10060981) 王佳欣
 
 # 2018/04/02
 - [Reinforcement Learning:Basic concepts](http://ddl.escience.cn/iscas007/r/10046265) 程大川 强化学习
