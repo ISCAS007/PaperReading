@@ -7,7 +7,17 @@ Computer Vision Paper Reading for ISCAS
 
 # next time
 - [GAN]()
+
+# 2018/04/23
+- [Instance Segmentation](http://ddl.escience.cn/iscas007/r/10069318) 王佳欣
+
+# 2018/04/23
+- []() 刘舫
+
+# 2018/04/09
 - [Semantic Segmentation](http://ddl.escience.cn/iscas007/r/10060981) 王佳欣
+- [Deformable GANs for Pose-based Human Image Generation](http://ddl.escience.cn/iscas007/r/10063543) 曲文天 slides
+- [Deformable GANs for Pose-based Human Image Generation](http://ddl.escience.cn/iscas007/r/10063542) 曲文天 pdf
 
 # 2018/04/02
 - [Reinforcement Learning:Basic concepts](http://ddl.escience.cn/iscas007/r/10046265) 程大川 强化学习
