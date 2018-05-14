@@ -8,6 +8,9 @@ Computer Vision Paper Reading for ISCAS
 # next time
 - [GAN]()
 
+# 2018/05/14
+- [Video Segmentation](http://ddl.escience.cn/iscas007/list#path=%2F9943610%2F10094565) 王佳欣
+
 # 2018/04/23
 - [Instance Segmentation](http://ddl.escience.cn/iscas007/r/10069318) 王佳欣
 
