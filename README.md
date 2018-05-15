@@ -10,6 +10,8 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/05/14
 - [Video Segmentation](http://ddl.escience.cn/iscas007/list#path=%2F9943610%2F10094565) 王佳欣
+- [CVPR'18 Dynamic Video Segmentation Network.mp4](https://www.jianguoyun.com/p/DdNmQ44QnpPjBRjjjFQ)
+- [masktrack.mov](https://www.jianguoyun.com/p/DfgHMRkQnpPjBRj7jFQ)
 
 # 2018/04/23
 - [Instance Segmentation](http://ddl.escience.cn/iscas007/r/10069318) 王佳欣
