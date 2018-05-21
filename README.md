@@ -8,7 +8,7 @@ Computer Vision Paper Reading for ISCAS
 
 # Group Information
 - A: 郑文勇，玉影，杜肖冰，窦毅琨
-- B: 刘舫，张拯明，晃文涛
+- B: 刘舫，张拯明，晁文涛
 - C: 王佳欣，曲文天，吴通通，左然
 
 # next time
