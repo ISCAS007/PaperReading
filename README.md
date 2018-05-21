@@ -6,6 +6,11 @@ Computer Vision Paper Reading for ISCAS
 >实测：163邮箱，教育网邮箱，QQ邮箱可以注册，国科大邮箱可以直接登录。
 如果点击注册没有反应，建议使用最新版本chrome浏览器。
 
+# Group Information
+- A: 郑文勇，玉影，杜肖冰，窦毅琨
+- B: 刘舫，张拯明，晃文涛
+- C: 王佳欣，曲文天，吴通通，左然
+
 # next time
 - [GAN]()
 
