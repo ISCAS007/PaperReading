@@ -34,7 +34,7 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/05/21 A组
 - [3D point](http://ddl.escience.cn/iscas007/r/10099730) 窦毅琨
-- BodyNet: Volumetric Inference of 3D Human Body Shapes[project page](www.di.ens.fr/willow/research/bodynet/) /[pdf](http://ddl.escience.cn/iscas007/r/10099743)/[ppt](http://ddl.escience.cn/iscas007/r/10099744) 朱玉影
+- BodyNet: Volumetric Inference of 3D Human Body Shapes/[project page](www.di.ens.fr/willow/research/bodynet/) /[pdf](http://ddl.escience.cn/iscas007/r/10099743)/[ppt](http://ddl.escience.cn/iscas007/r/10099744) 朱玉影
 - []() 杜肖冰
 
 # 2018/05/14
