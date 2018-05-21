@@ -7,7 +7,7 @@ Computer Vision Paper Reading for ISCAS
 如果点击注册没有反应，建议使用最新版本chrome浏览器。
 
 # Group Information
-- A: 玉影，杜肖冰，窦毅琨
+- A: 朱玉影，杜肖冰，窦毅琨
 - B: 刘舫，张拯明，晁文涛
 - C: 王佳欣，曲文天，吴通通
 - D: 郑文勇，左然，左德鑫，朱倩
@@ -16,15 +16,28 @@ Computer Vision Paper Reading for ISCAS
 # next time
 - [GAN]()
 
+# 2018/05/25 B组
+- []() 刘舫
+- []() 张拯明
+- []() 晁文涛
+
+# 2018/05/21 A组
+- [3D point](http://ddl.escience.cn/iscas007/r/10099730) 窦毅琨
+- []() 朱玉影
+- []() 杜肖冰
+
 # 2018/05/14
 - [Video Segmentation 科研在线](http://ddl.escience.cn/iscas007/list#path=%2F9943610%2F10094565) 王佳欣
-- [Video Segmentation 百度云](https://pan.baidu.com/s/1UhwrUOEMFYNQECkLXo7VRQ) 王佳欣
+- ~[Video Segmentation 百度云](https://pan.baidu.com/s/1UhwrUOEMFYNQECkLXo7VRQ) 王佳欣~
+
+# 2018/05/07
+- [Sketch-a-Net that Beats Humans](http://ddl.escience.cn/iscas007/r/10087410) 刘舫
 
 # 2018/04/23
 - [Instance Segmentation](http://ddl.escience.cn/iscas007/r/10069318) 王佳欣
 
-# 2018/04/23
-- []() 刘舫
+# 2018/04/15
+- [SketchParse: Towards Rich Descriptions for Poorly Drawn Sketches using Multi-Task Hierarchical Deep Networks](http://ddl.escience.cn/iscas007/r/10069082) 刘舫
 
 # 2018/04/09
 - [Semantic Segmentation](http://ddl.escience.cn/iscas007/r/10060981) 王佳欣
