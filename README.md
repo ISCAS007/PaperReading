@@ -46,6 +46,7 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/04/23
 - [Instance Segmentation](http://ddl.escience.cn/iscas007/r/10069318) 王佳欣
+- [pose](http://ddl.escience.cn/iscas007/r/10078155) 郑文勇
 
 # 2018/04/15
 - [SketchParse: Towards Rich Descriptions for Poorly Drawn Sketches using Multi-Task Hierarchical Deep Networks](http://ddl.escience.cn/iscas007/r/10069082) 刘舫
