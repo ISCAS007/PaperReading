@@ -7,9 +7,11 @@ Computer Vision Paper Reading for ISCAS
 如果点击注册没有反应，建议使用最新版本chrome浏览器。
 
 # Group Information
-- A: 郑文勇，玉影，杜肖冰，窦毅琨
+- A: 玉影，杜肖冰，窦毅琨
 - B: 刘舫，张拯明，晁文涛
-- C: 王佳欣，曲文天，吴通通，左然
+- C: 王佳欣，曲文天，吴通通
+- D: 郑文勇，左然，左德鑫，朱倩
+>郑文勇 同学即将毕业，他的Paper Reading不多了，要珍稀机会。
 
 # next time
 - [GAN]()
