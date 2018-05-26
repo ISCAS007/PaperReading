@@ -29,12 +29,7 @@ Computer Vision Paper Reading for ISCAS
 - []() 左德鑫
 
 # 2018/06/01 C组
-- [Context Encoding for Semantic Segmentation]() 王佳欣
-  - Context Encoding for Semantic Segmentation ,
-  Hang Zhang, Kristin Dana, Jianping Shi, Zhongyue Zhang, Xiaogang Wang, Ambrish Tyagi, Amit Agrawal.
-  IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2018, (Oral) 
-  - Top rank performance on semantic segmentation benchmarks 
-  - [Paper](https://arxiv.org/pdf/1803.08904.pdf) [Code](https://github.com/zhanghang1989/PyTorch-Encoding)
+- [Context Encoding for Semantic Segmentation]() 王佳欣 [Paper](https://arxiv.org/pdf/1803.08904.pdf) [Code](https://github.com/zhanghang1989/PyTorch-Encoding) [Team](http://shijianping.me/)
 - []() 曲文天
 - []() 吴通通
 
