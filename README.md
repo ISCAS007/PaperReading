@@ -18,11 +18,15 @@ Computer Vision Paper Reading for ISCAS
 # next time
 - [GAN]()
 
-# 2018/06/07 D组
+# 2018/06/15 E组
+- []() 朱倩
+- []() 林泽一
+- []() 张拯明 (临时分配到E组)
+
+# 2018/06/08 D组
 - []() 郑文勇
 - []() 左然
 - []() 左德鑫
-- []() 朱倩
 
 # 2018/06/01 C组
 - [Context Encoding for Semantic Segmentation]() 王佳欣
@@ -36,7 +40,7 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/05/25 B组
 - []() 刘舫
-- []() 张拯明
+- ~[]() 张拯明~
 - []() 晁文涛
 
 # 2018/05/21 A组
