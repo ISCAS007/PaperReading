@@ -29,7 +29,7 @@ Computer Vision Paper Reading for ISCAS
 - []() 左德鑫
 
 # 2018/06/01 C组
-- [Context Encoding for Semantic Segmentation]() 王佳欣 [Paper](https://arxiv.org/pdf/1803.08904.pdf) [Code](https://github.com/zhanghang1989/PyTorch-Encoding) [Team](http://shijianping.me/)
+- [Context Encoding for Semantic Segmentation](http://ddl.escience.cn/iscas007/r/10102927) 王佳欣 [Paper](https://arxiv.org/pdf/1803.08904.pdf) [Code](https://github.com/zhanghang1989/PyTorch-Encoding) [Team](http://shijianping.me/)
 - []() 曲文天
 - []() 吴通通
 
