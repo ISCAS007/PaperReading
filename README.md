@@ -43,7 +43,7 @@ Computer Vision Paper Reading for ISCAS
 - BodyNet: Volumetric Inference of 3D Human Body Shapes [project page](www.di.ens.fr/willow/research/bodynet/)/[pdf](http://ddl.escience.cn/iscas007/r/10099743)/[ppt](http://ddl.escience.cn/iscas007/r/10099744) 朱玉影
 >Abstract: BodyNet is an end-to-end trainable network for human shape estimation that benefits from (i) a volumetric 3D loss, (ii) a  multi-view re-projection loss, and (iii) intermediate supervision of 2D pose, 2D body part segmentation, and 3D pose.
   
-- []() 杜肖冰
+- [Targeting EEGLFP Synchrony with Neural Nets](http://ddl.escience.cn/iscas007/r/10099821) 杜肖冰
 
 # 2018/05/14
 - [Video Segmentation 科研在线](http://ddl.escience.cn/iscas007/list#path=%2F9943610%2F10094565) 王佳欣
