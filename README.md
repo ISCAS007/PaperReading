@@ -9,9 +9,9 @@ Computer Vision Paper Reading for ISCAS
 # Group Information
 - A: 朱玉影，杜肖冰，窦毅琨
 - B: 刘舫，张拯明，晁文涛
-- C: 王佳欣，曲文天，吴通通
+- C: 王佳欣，林泽一，吴通通
 - D: 郑文勇，左然，左德鑫
-- E: 朱倩，林泽一
+- E: 朱倩,曲文天
 
 >郑文勇 同学即将毕业，他的Paper Reading不多了，要珍惜机会。
 
@@ -21,7 +21,7 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/06/15 E组
 - []() 朱倩
-- []() 林泽一
+- []() 曲文天
 - []() 张拯明 (临时分配到E组)
 
 # 2018/06/08 D组
@@ -31,7 +31,7 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/06/01 C组
 - [Context Encoding for Semantic Segmentation](http://ddl.escience.cn/iscas007/r/10102927) 王佳欣 [Paper](https://arxiv.org/pdf/1803.08904.pdf) [Code](https://github.com/zhanghang1989/PyTorch-Encoding) [Team](http://shijianping.me/)
-- []() 曲文天
+- []() 林泽一
 - []() 吴通通
 
 # 2018/05/25 B组
