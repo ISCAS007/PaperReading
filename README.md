@@ -20,13 +20,13 @@ Computer Vision Paper Reading for ISCAS
 - [Deep TEN: Texture Encoding Network]()
 
 # 2018/06/15 E组
-- []() 朱倩
+- []() ~朱倩~ 左然（临时调换）
 - []() 曲文天
 - []() 张拯明 (临时分配到E组)
 
 # 2018/06/08 D组
 - []() 郑文勇
-- []() 左然
+- [ECGLens](http://ddl.escience.cn/iscas007/r/10114666) ~左然~ 朱倩（临时调换）
 - []() 左德鑫
 
 # 2018/06/01 C组
