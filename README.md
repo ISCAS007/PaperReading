@@ -10,14 +10,17 @@ Computer Vision Paper Reading for ISCAS
 - A: 朱玉影，杜肖冰，窦毅琨
 - B: 刘舫，张拯明，晁文涛
 - C: 王佳欣，林泽一，吴通通
-- D: 郑文勇，左然，左德鑫
+- D: 左然，左德鑫
 - E: 朱倩,曲文天
-
->郑文勇 同学即将毕业，他的Paper Reading不多了，要珍惜机会。
 
 # next time
 - [GAN]()
 - [Deep TEN: Texture Encoding Network]()
+
+# 2018/06/22 A组
+- []() 朱玉影
+- []() 杜肖冰
+- []() 窦毅琨
 
 # 2018/06/15 E组
 - []() ~朱倩~ 左然（临时调换）
