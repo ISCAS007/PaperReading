@@ -18,8 +18,9 @@ Computer Vision Paper Reading for ISCAS
 - [Deep TEN: Texture Encoding Network]()
 
 # 2018/06/22 A组
-- [Stacked Hourglass Networks for Human Pose Estimation](http://ddl.escience.cn/iscas007/r/10139060) 朱玉影
+- Stacked Hourglass Networks 朱玉影
 > Learning to Estimate 3D Human Pose and Shape from a Single Color Image [PPT](http://ddl.escience.cn/iscas007/r/10139065)/[PDF](http://ddl.escience.cn/iscas007/r/10139060)
+> Stacked Hourglass Networks for Human Pose Estimation [PDF](http://ddl.escience.cn/iscas007/r/10139060)/[tensorflow_code](https://github.com/wbenbihi/hourglasstensorlfow)
 - []() 杜肖冰
 - []() 窦毅琨
 
