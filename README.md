@@ -18,7 +18,8 @@ Computer Vision Paper Reading for ISCAS
 - [Deep TEN: Texture Encoding Network]()
 
 # 2018/06/22 A组
-- []() 朱玉影
+- Learning to Estimate 3D Human Pose and Shape from a Single Color Image[ppt](http://ddl.escience.cn/iscas007/r/10139065)/[pdf](http://ddl.escience.cn/iscas007/r/10139068) 朱玉影
+- Stacked Hourglass Networks for Human Pose Estimation [project page](www.di.ens.fr/willow/research/bodynet/)/[pdf](http://ddl.escience.cn/iscas007/r/10139060) 朱玉影
 - []() 杜肖冰
 - []() 窦毅琨
 
