@@ -10,8 +10,7 @@ Computer Vision Paper Reading for ISCAS
 - A: 朱玉影，杜肖冰，窦毅琨
 - B: 刘舫，张拯明，晁文涛
 - C: 王佳欣，林泽一，吴通通
-- D: 左然，左德鑫
-- E: 朱倩,曲文天
+- D: 朱倩，曲文天，左德鑫
 
 # next time
 - [GAN]()
