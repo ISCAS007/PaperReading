@@ -14,9 +14,9 @@ Computer Vision Paper Reading for ISCAS
 
 # next time
 - [GAN]()
-- [Deep TEN: Texture Encoding Network]()
 
 # 2018/07/20 E组
+- [Deep TEN: Texture Encoding Network](http://ddl.escience.cn/iscas007/r/10150689) 王佳欣
 # 2018/07/13 D组
 # 2018/07/06 C组
 # 2018/06/29 B组
