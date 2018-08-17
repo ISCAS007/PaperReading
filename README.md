@@ -17,9 +17,6 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/07/20 E组
 - [Deep TEN: Texture Encoding Network](http://ddl.escience.cn/iscas007/r/10150689) 王佳欣 [pdf](http://ddl.escience.cn/iscas007/r/10150790)
-# 2018/07/13 D组
-# 2018/07/06 C组
-# 2018/06/29 B组
 # 2018/06/22 A组
 - Stacked Hourglass Networks 朱玉影
 > Learning to Estimate 3D Human Pose and Shape from a Single Color Image [PPT](http://ddl.escience.cn/iscas007/r/10139065)/[PDF](http://ddl.escience.cn/iscas007/r/10139060)
