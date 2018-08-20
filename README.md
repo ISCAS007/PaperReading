@@ -15,6 +15,10 @@ Computer Vision Paper Reading for ISCAS
 # next time
 - [GAN]()
 
+# 2018/08/24 B组
+- [ICNet](http://ddl.escience.cn/iscas007/r/10176921) 王佳欣 [project](https://hszhao.github.io/projects/icnet/) [pdf](https://arxiv.org/abs/1704.08545) [code](https://github.com/hszhao/ICNet) [author](http://shijianping.me/)
+- [deeplab]() 石玥
+
 # 2018/07/20 E组
 - [Deep TEN: Texture Encoding Network](http://ddl.escience.cn/iscas007/r/10150689) 王佳欣 [pdf](http://ddl.escience.cn/iscas007/r/10150790)
 # 2018/06/22 A组
