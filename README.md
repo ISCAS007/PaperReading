@@ -7,10 +7,11 @@ Computer Vision Paper Reading for ISCAS
 如果点击注册没有反应，建议使用最新版本chrome浏览器。
 
 # Group Information
-- A: 朱玉影，杜肖冰，窦毅琨
-- B: 刘舫，张拯明，晁文涛
-- C: 王佳欣，林泽一，吴通通，石玥
-- D: 朱倩，曲文天，左德鑫，紫檀
+- A: 朱玉影 杜肖冰 窦毅琨
+- B: 刘舫 张拯明 晁文涛
+- C: 王佳欣 石玥 曲文天
+- D: 林泽一 吴通通 朱倩 左德鑫
+- E: 紫檀
 
 # next time
 - [GAN]()
