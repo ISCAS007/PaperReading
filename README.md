@@ -21,8 +21,11 @@ Computer Vision Paper Reading for ISCAS
 # 2018/09/07 E组
 - [草图主题论文831](http://ddl.escience.cn/iscas007/r/10187595) 薛涵
 
-# 2018/08/31 C组
+# 2018/08/31 D组
 - [草图主题论文810](http://ddl.escience.cn/iscas007/r/10187610) 薛涵
+- [ConceptMap](http://ddl.escience.cn/iscas007/r/10187626) 朱倩
+
+
 
 # 2018/08/24 B组
 - [ICNet](http://ddl.escience.cn/iscas007/r/10176921) 王佳欣 [project](https://hszhao.github.io/projects/icnet/) [pdf](https://arxiv.org/abs/1704.08545) [code](https://github.com/hszhao/ICNet) [author](http://shijianping.me/)
