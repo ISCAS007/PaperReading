@@ -3,7 +3,7 @@ Computer Vision Paper Reading for ISCAS
 # History Documence
 - [科研在线团队文档库](http://ddl.escience.cn/iscas007) 
 - [注册加入科研在线帐号](https://passport.escience.cn/regist.jsp)
-- [点击加入ISCAS007链接](http://ddl.escience.cn/t/aXNjYXMwMDc=) 似乎此处附带的注册功能失效了！！！
+- [点击加入ISCAS007链接](http://ddl.escience.cn/t/aXNjYXMwMDc=) 似乎此处附带的注册功能失效了！！！但点击加入估计还行
 >实测：163邮箱，教育网邮箱，QQ邮箱可以注册，国科大邮箱可以直接登录。
 如果点击注册没有反应，建议使用最新版本chrome浏览器。
 
