@@ -13,7 +13,7 @@ Computer Vision Paper Reading for ISCAS
 | B | 刘舫   | 张拯明 | 晁文涛 | -     |
 | C | 王佳欣 | 石玥   | 曲文天 | -     |
 | D | 林泽一 | 吴通通 | 朱倩   | 左德鑫 |
-| E | 陈紫檀   | 薛涵   | 左然  | -      |
+| E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
 - [GAN]()
