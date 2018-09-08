@@ -11,7 +11,7 @@ Computer Vision Paper Reading for ISCAS
 | A | 朱玉影 | 杜肖冰 | 窦毅琨 | -     |
 | - | ----- | ------ | ----- | :-:   | 
 | B | 刘舫   | 张拯明 | 晁文涛 | -     |
-| C | 王佳欣 | 石玥   | 曲文天 | -     |
+| C | 王佳欣 | 石玥   | 曲文天 | 李锦瑶 |
 | D | 林泽一 | 吴通通 | 朱倩   | 左德鑫 |
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
@@ -24,8 +24,6 @@ Computer Vision Paper Reading for ISCAS
 # 2018/08/31 D组
 - [草图主题论文810](http://ddl.escience.cn/iscas007/r/10187610) 薛涵
 - [ConceptMap](http://ddl.escience.cn/iscas007/r/10187626) 朱倩
-
-
 
 # 2018/08/24 B组
 - [ICNet](http://ddl.escience.cn/iscas007/r/10176921) 王佳欣 [project](https://hszhao.github.io/projects/icnet/) [pdf](https://arxiv.org/abs/1704.08545) [code](https://github.com/hszhao/ICNet) [author](http://shijianping.me/)
