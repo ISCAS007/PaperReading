@@ -17,6 +17,8 @@ Computer Vision Paper Reading for ISCAS
 | D | 林泽一 | 吴通通 | 朱倩   | 左德鑫 |
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
+- read to add 李伟亨 to A next mouth
+
 # next time
 - [GAN]()
 
