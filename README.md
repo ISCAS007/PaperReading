@@ -10,14 +10,12 @@ Computer Vision Paper Reading for ISCAS
 
 # Group Information
 
-| A | 朱玉影 | 杜肖冰 | 窦毅琨 | -     |
+| A | 朱玉影 | 杜肖冰 | 窦毅琨 | 李伟亨 |
 | - | ----- | ------ | ----- | :-:   | 
 | B | 刘舫   | 张拯明 | 晁文涛 | -     |
 | C | 王佳欣 | 石玥   | 曲文天 | 李锦瑶 |
 | D | 林泽一 | 吴通通 | 朱倩   | 左德鑫 |
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
-
-- read to add 李伟亨 to A next mouth
 
 # next time
 - [GAN]()
