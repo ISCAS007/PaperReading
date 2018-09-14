@@ -21,10 +21,10 @@ Computer Vision Paper Reading for ISCAS
 - [GAN]()
 
 # 2018/09/14 A组
-- A survey of human pose estimation of cvpr2017 [ppt](http://ddl.escience.cn/iscas007/r/10202009) 朱玉影
-[pdf1 - Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/abs/1711.07319)
-[pdf2 - Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose ](https://arxiv.org/abs/1611.07828)
-[pdf3 - A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/abs/1705.03098)
+- A survey of human pose estimation of cvpr2017  [ppt](http://ddl.escience.cn/iscas007/r/10202009) 朱玉影 
+[pdf1 - Cascaded Pyramid Network for Multi-Person Pose Estimation](https://arxiv.org/abs/1711.07319) 
+[pdf2 - Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose ](https://arxiv.org/abs/1611.07828) 
+[pdf3 - A simple yet effective baseline for 3d human pose estimation](https://arxiv.org/abs/1705.03098) 
 >Abstract: limited by dataset,we can do human pose detection problem to get 2d heatmap or do regression problem to get 3d joints coordinate.So in this survey, I introduce three paper solve human pose estimation problem in three ways,i)rgb->2d heatmap(2d joints),ii)rgb->3d joints(3d heatmap),iii)2d joints->3d joints.
 
 # 2018/09/07 E组
@@ -39,7 +39,7 @@ Computer Vision Paper Reading for ISCAS
 - [deeplab]() 石玥
 
 # 2018/08/10 A组
-- HandMap: Robust Hand Pose Estimation viaIntermediate Dense Guidance Map Supervision[pdf](http://www.yongliangyang.net/docs/handMap_eccv18.pdf)/[ppt](http://ddl.escience.cn/iscas007/r/10202011) 朱玉影
+- HandMap: Robust Hand Pose Estimation via Intermediate Dense Guidance Map Supervision [pdf](http://www.yongliangyang.net/docs/handMap_eccv18.pdf) / [ppt](http://ddl.escience.cn/iscas007/r/10202011) 朱玉影
 >Abstract: we can solve hand pose estimation problem as regression problem which regress joints location(xyz coordinates) or classification(detection/localization) problem which show its probility in input image or voxels for each joint. So we can combine two solution and introduce in dense guidance map as intermediate predictions. So this paper design seveal guidance map and show its addvantage in experiments.
 
 # 2018/07/20 E组
