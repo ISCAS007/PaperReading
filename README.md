@@ -20,7 +20,7 @@ Computer Vision Paper Reading for ISCAS
 # next time
 
 # 2018/10/12 C组
-- [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics] 王佳欣 [pdf](https://arxiv.org/pdf/1705.07115.pdf) [ppt](http://ddl.escience.cn/iscas007/r/10225340) [author]((https://alexgkendall.com/publications/))
+- [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics] 王佳欣 [pdf](https://arxiv.org/pdf/1705.07115.pdf) [ppt](http://ddl.escience.cn/iscas007/r/10225340) [author](https://alexgkendall.com/publications/)
 
 # 2018/09/14 A组
 - A survey of human pose estimation of cvpr2017  [ppt](http://ddl.escience.cn/iscas007/r/10202009) 朱玉影 
