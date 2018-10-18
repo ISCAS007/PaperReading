@@ -19,8 +19,8 @@ Computer Vision Paper Reading for ISCAS
 
 # next time
 # 2018/10/19 D组
-- [Bring it to the Pitch: Combining Video and Movement Data to Enhance Team Sport Analysis-TVCG2018] 朱倩 [pdf]
-  (https://ieeexplore.ieee.org/document/8019849/) [ppt](http://ddl.escience.cn/zhuqian172-mails-ucas-ac-cn/r/10231135)
+-  [Bring it to the Pitch: Combining Video and Movement Data to Enhance Team Sport Analysis-TVCG2018] 朱倩 
+[pdf](https://ieeexplore.ieee.org/document/8019849/) [ppt](http://ddl.escience.cn/zhuqian172-mails-ucas-ac-cn/r/10231135)
   
 # 2018/10/12 C组
 - [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics] 王佳欣 [pdf](https://arxiv.org/pdf/1705.07115.pdf) [ppt](http://ddl.escience.cn/iscas007/r/10225340) [author](https://alexgkendall.com/publications/)
