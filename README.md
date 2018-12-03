@@ -19,7 +19,7 @@ Computer Vision Paper Reading for ISCAS
 
 # next time
 # 2018/11/30 A组
-- [Adaptive O-CNN A Patch-based Deep Representation of 3D Shapes]朱玉影 [pdf](https://arxiv.org/pdf/1809.07917.pdf) [ppt]()
+- [Adaptive O-CNN A Patch-based Deep Representation of 3D Shapes]朱玉影 [pdf](https://arxiv.org/pdf/1809.07917.pdf) [ppt](http://ddl.escience.cn/iscas007/r/10346675)
 >Abstract: the author present an Adaptive Octree-based Convolutional Neural Network (Adaptive O-CNN) for efficient 3D shape encoding and decoding
 - 窦毅琨
 - 杜肖冰
