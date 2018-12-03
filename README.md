@@ -18,6 +18,12 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2018/11/30 A组
+- [Adaptive O-CNN A Patch-based Deep Representation of 3D Shapes]朱玉影 [pdf](https://arxiv.org/pdf/1809.07917.pdf) [ppt]()
+>Abstract: the author present an Adaptive Octree-based Convolutional Neural Network (Adaptive O-CNN) for efficient 3D shape encoding and decoding
+- 窦毅琨
+- 杜肖冰
+
 # 2018/10/19 D组
 -  [Bring it to the Pitch: Combining Video and Movement Data to Enhance Team Sport Analysis-TVCG2018] 朱倩 
 [pdf](https://ieeexplore.ieee.org/document/8019849/) [ppt](http://ddl.escience.cn/zhuqian172-mails-ucas-ac-cn/r/10231135)
