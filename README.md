@@ -18,6 +18,11 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+
+# 2018/12/13 C组
+- [Proxyless NEURAL ARCHITECTURE SEARCH] 王佳欣 [pdf](http://ddl.escience.cn/iscas007/r/10356524) [ppt](http://ddl.escience.cn/iscas007/r/10356523)
+  - [LITERATURE ON NEURAL ARCHITECTURE SEARCH](https://www.ml4aad.org/automl/literature-on-neural-architecture-search/)
+
 # 2018/11/30 A组
 - [Adaptive O-CNN A Patch-based Deep Representation of 3D Shapes]朱玉影 [pdf](https://arxiv.org/pdf/1809.07917.pdf) [ppt](http://ddl.escience.cn/iscas007/r/10346675)
 >Abstract: the author present an Adaptive Octree-based Convolutional Neural Network (Adaptive O-CNN) for efficient 3D shape encoding and decoding
