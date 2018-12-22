@@ -20,7 +20,7 @@ Computer Vision Paper Reading for ISCAS
 # next time
 
 # 2018/12/21组
-- [MovieGraph] 朱倩 [pdf](http://ddl.escience.cn/iscas007/r/10365223) [ppt](http://ddl.escience.cn/iscas007/r/10365222) [supp](http://ddl.escience.cn/iscas007/r/10365221)
+- [MovieGraph] 朱倩 [pdf](http://ddl.escience.cn/iscas007/r/10365223) [ppt](http://ddl.escience.cn/iscas007/r/10366799) [supp](http://ddl.escience.cn/iscas007/r/10365221)
 
 # 2018/12/13 C组
 - [Proxyless NEURAL ARCHITECTURE SEARCH] 王佳欣 [pdf](http://ddl.escience.cn/iscas007/r/10356524) [ppt](http://ddl.escience.cn/iscas007/r/10356523)
