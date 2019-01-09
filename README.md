@@ -22,7 +22,14 @@ Computer Vision Paper Reading for ISCAS
 
 # next time
 
-# 2018/12/21组
+# 2019/01/10 B组
+- [Deformable Convolution Networks V2](http://www.jifengdai.org/) 王佳欣
+  - [pdf](http://ddl.escience.cn/iscas007/r/10384223)
+  - [ppt](http://ddl.escience.cn/iscas007/r/10384224)
+  - [code](https://github.com/msracver/Deformable-ConvNets)
+  - [homepage+pdf+code](http://www.jifengdai.org/)
+
+# 2018/12/21组 D组
 - [MovieGraph] 朱倩 [pdf](http://ddl.escience.cn/iscas007/r/10365223) [ppt](http://ddl.escience.cn/iscas007/r/10366799) [supp](http://ddl.escience.cn/iscas007/r/10365221)
 
 # 2018/12/13 C组
