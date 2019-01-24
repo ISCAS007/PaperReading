@@ -22,6 +22,11 @@ Computer Vision Paper Reading for ISCAS
 
 # next time
 
+# 2019/01/24 D组
+- [Deep Reinforcement Learning for Unsupervised Video Summarization](https://arxiv.org/abs/1801.00054) 朱倩
+  - [ppt](http://ddl.escience.cn/iscas007/r/10410968)
+  - [code](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce)
+
 # 2019/01/10 B组
 - [Deformable Convolution Networks V2](http://www.jifengdai.org/) 王佳欣
   - [pdf](http://ddl.escience.cn/iscas007/r/10384223)
