@@ -27,6 +27,16 @@ Computer Vision Paper Reading for ISCAS
   - [ppt](http://ddl.escience.cn/iscas007/r/10410968)
   - [code](https://github.com/KaiyangZhou/pytorch-vsumm-reinforce)
 
+- [Point-to-Pose Voting based Hand Pose Estimation using Residual Permutation Equivariant Layer
+](https://arxiv.org/abs/1812.02050) 左德鑫
+  - [ppt](https://drive.google.com/open?id=1EESdWu8Tixx2e5UgWB4-7f-1A5FB858z)
+
+- [MURAUER: Mapping Unlabeled Real Data for Label AUstERity
+](https://arxiv.org/abs/1811.09497) 左德鑫
+  - [ppt](https://drive.google.com/open?id=1EESdWu8Tixx2e5UgWB4-7f-1A5FB858z)
+  - [code](https://github.com/poier/murauer)
+
+
 # 2019/01/10 B组
 - [Deformable Convolution Networks V2](http://www.jifengdai.org/) 王佳欣
   - [pdf](http://ddl.escience.cn/iscas007/r/10384223)
@@ -36,6 +46,12 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/12/21组 D组
 - [MovieGraph] 朱倩 [pdf](http://ddl.escience.cn/iscas007/r/10365223) [ppt](http://ddl.escience.cn/iscas007/r/10366799) [supp](http://ddl.escience.cn/iscas007/r/10365221)
+  
+- [Pixel2Mesh: Generating 3D Mesh Models from Single RGB Images
+](https://arxiv.org/abs/1804.01654) 左德鑫
+  - [ppt](https://drive.google.com/open?id=1dmgdbJVYtYNLbRXaKAqa-yTeiWviRXqi)
+  - [code](https://github.com/nywang16/Pixel2Mesh)
+
 
 # 2018/12/13 C组
 - [Proxyless NEURAL ARCHITECTURE SEARCH] 王佳欣 [pdf](http://ddl.escience.cn/iscas007/r/10356524) [ppt](http://ddl.escience.cn/iscas007/r/10356523)
@@ -50,7 +66,12 @@ Computer Vision Paper Reading for ISCAS
 # 2018/10/19 D组
 -  [Bring it to the Pitch: Combining Video and Movement Data to Enhance Team Sport Analysis-TVCG2018] 朱倩 
 [pdf](https://ieeexplore.ieee.org/document/8019849/) [ppt](http://ddl.escience.cn/zhuqian172-mails-ucas-ac-cn/r/10231135)
-  
+
+- [Dynamic Routing Between Capsules
+](https://arxiv.org/abs/1710.09829) 左德鑫
+  - [ppt](https://drive.google.com/open?id=1rk9rdRmDmuxAtOco4Xq_Yq2BLX4qItyS)
+
+
 # 2018/10/12 C组
 - [Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics] 王佳欣 [pdf](https://arxiv.org/pdf/1705.07115.pdf) [ppt](http://ddl.escience.cn/iscas007/r/10225340) [author](https://alexgkendall.com/publications/)
 
@@ -66,7 +87,12 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/08/31 D组
 - [草图主题论文810](http://ddl.escience.cn/iscas007/r/10187610) 薛涵
+
 - [ConceptMap](http://ddl.escience.cn/iscas007/r/10187626) 朱倩
+
+- [Opening The Black Box Of Deep Neural Networks  Via Information
+](https://arxiv.org/abs/1703.00810) 左德鑫
+  - [ppt](https://drive.google.com/open?id=1VNs1HwhaqpDlR6bh0bLenXkqIlTSzhfT)
 
 # 2018/08/24 B组
 - [ICNet](http://ddl.escience.cn/iscas007/r/10176921) 王佳欣 [project](https://hszhao.github.io/projects/icnet/) [pdf](https://arxiv.org/abs/1704.08545) [code](https://github.com/hszhao/ICNet) [author](http://shijianping.me/)
