@@ -18,6 +18,11 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2019/03/04 A组
+-  [Spatio-Temporal Dynamics and Semantic Attribute Enriched-CVPR2019] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10446145)
+
+# next time
 # 2018/10/19 D组
 -  [Bring it to the Pitch: Combining Video and Movement Data to Enhance Team Sport Analysis-TVCG2018] 朱倩 
 [pdf](https://ieeexplore.ieee.org/document/8019849/) [ppt](http://ddl.escience.cn/zhuqian172-mails-ucas-ac-cn/r/10231135)
