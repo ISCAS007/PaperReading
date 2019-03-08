@@ -21,6 +21,11 @@ Computer Vision Paper Reading for ISCAS
 #2019/03/08 A组
 -  [Multimodal Machine Learning] 杜肖冰
 [link](https://zhuanlan.zhihu.com/p/53511144)
+-  [视频理解近期研究进展] 杜肖冰
+[link](https://zhuanlan.zhihu.com/p/36330561)
+-  [video caption 综述] 杜肖冰
+[link](https://zhuanlan.zhihu.com/p/40776101)
+
 
 # 2019/03/04 A组
 -  [Spatio-Temporal Dynamics and Semantic Attribute Enriched-CVPR2019] 杜肖冰
