@@ -18,7 +18,8 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
-#2019/03/08 A组
+
+# 2019/03/08 A组
 -  [Multimodal Machine Learning] 杜肖冰
 [link](https://zhuanlan.zhihu.com/p/53511144)
 -  [视频理解近期研究进展] 杜肖冰
