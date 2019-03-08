@@ -31,6 +31,9 @@ Computer Vision Paper Reading for ISCAS
 # 2019/03/04 A组
 -  [Spatio-Temporal Dynamics and Semantic Attribute Enriched-CVPR2019] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10446145)
+-  [Video Summarization with Long Short-term Memory-ECCV2016] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10447552)
+
 
 # next time
 # 2018/10/19 D组
