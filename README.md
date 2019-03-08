@@ -18,6 +18,10 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+#2019/03/08 A组
+-  [Multimodal Machine Learning] 杜肖冰
+[link](https://zhuanlan.zhihu.com/p/53511144)
+
 # 2019/03/04 A组
 -  [Spatio-Temporal Dynamics and Semantic Attribute Enriched-CVPR2019] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10446145)
