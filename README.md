@@ -33,6 +33,9 @@ Computer Vision Paper Reading for ISCAS
 [pdf](http://ddl.escience.cn/sketchvideo/r/10446145)
 -  [Video Summarization with Long Short-term Memory-ECCV2016] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10447552)
+-  [M3: Multimodal Memory Modelling for Video Captioning-CVPR2018] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10450870)
+
 
 
 # next time
