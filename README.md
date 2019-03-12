@@ -22,6 +22,9 @@ Computer Vision Paper Reading for ISCAS
 # 2019/03/12 A组
 -  [Pytorch 深度学习项目] 杜肖冰
 [link](https://blog.csdn.net/u012969412/article/details/77479269)
+-  [Sequence to Sequnece-video to Text-ICCV2015] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10459218)
+
 
 # 2019/03/08 A组
 -  [Multimodal Machine Learning] 杜肖冰
