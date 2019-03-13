@@ -24,6 +24,8 @@ Computer Vision Paper Reading for ISCAS
 [link](https://blog.csdn.net/u012969412/article/details/77479269)
 -  [Sequence to Sequnece-video to Text-ICCV2015] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10459218)
+-  [S2VT-ICCV2015 github] 杜肖冰
+[link](https://github.com/vsubhashini/caffe/tree/recurrent/examples/s2vt)
 -  [理解LSTM内部门操作] 杜肖冰
 [link](https://blog.csdn.net/accumulate_zhang/article/details/78577364)
 
