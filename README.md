@@ -19,6 +19,10 @@ Computer Vision Paper Reading for ISCAS
 
 # next time
 
+# 2019/03/14 A组
+-  [Towards Micro-video Understanding by Joint Sequential-Sparse Modeling] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10461256)
+
 # 2019/03/12 A组
 -  [Pytorch 深度学习项目] 杜肖冰
 [link](https://blog.csdn.net/u012969412/article/details/77479269)
