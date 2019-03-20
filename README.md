@@ -18,6 +18,11 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2019/03/19 A组
+-  [Video Summarization with Long Short-term Memory-ECCV2016-code] 杜肖冰
+[link](https://github.com/XiaobingDu/Video-Summarization-with-LSTM)
+-  [Video Summarization with Long Short-term Memory-ECCV2016-Supplementary Material] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10465320)
 
 # 2019/03/14 A组
 -  [Towards Micro-video Understanding by Joint Sequential-Sparse Modeling] 杜肖冰
