@@ -18,6 +18,10 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2019/03/21 A组
+-  [Unsupervised Video Summarization with Adversarial LSTM Networks-CVPR2017] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10465980)
+
 # 2019/03/19 A组
 -  [Video Summarization with Long Short-term Memory-ECCV2016-code] 杜肖冰
 [link](https://github.com/XiaobingDu/Video-Summarization-with-LSTM)
