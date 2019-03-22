@@ -21,7 +21,7 @@ Computer Vision Paper Reading for ISCAS
 # 2019/03/22 A组
 -  [Extractive Video Summarizer with Memory Augmented Neural Networks-ACMMM2018] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10447302)
--  [Hierarchical Memory Modelling for Video Captioni-ACMMM2017] 杜肖冰
+-  [Hierarchical Memory Modelling for Video Captioning-ACMMM2017] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10447303)
 
 # 2019/03/21 A组
