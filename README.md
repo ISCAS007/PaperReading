@@ -23,6 +23,9 @@ Computer Vision Paper Reading for ISCAS
 [pdf](http://ddl.escience.cn/sketchvideo/r/10470641)
 -  [End-to-End memory network-NIPS2018] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10470642)
+-  [End-to-End memory network-NIPS2018 相关资料] 杜肖冰
+[link](https://zhuanlan.zhihu.com/p/29679742)[link](https://www.paperweekly.site/papers/notes/181)
+
 
 # 2019/03/22 A组
 -  [Extractive Video Summarizer with Memory Augmented Neural Networks-ACMMM2018] 杜肖冰
