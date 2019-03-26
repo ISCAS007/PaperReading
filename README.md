@@ -18,6 +18,12 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2019/03/25 A组
+-  [Temporal Tessellation: A Unified Approach for Video Anal-ICCV2017] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10470641)
+-  [End-to-End memory network-NIPS2018] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10470642)
+
 # 2019/03/22 A组
 -  [Extractive Video Summarizer with Memory Augmented Neural Networks-ACMMM2018] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10447302)
