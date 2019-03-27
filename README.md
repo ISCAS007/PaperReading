@@ -18,6 +18,10 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2019/03/26 A组
+-  [Watch, Think and Attend: End-to-End Video Classification viaDynamic Knowledge Evolution Modelin-ACMMM2018] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10447304)
+
 # 2019/03/25 A组
 -  [Temporal Tessellation: A Unified Approach for Video Anal-ICCV2017] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10470641)
