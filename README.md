@@ -18,6 +18,7 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+
 # 2019/03/26 A组
 -  [Watch, Think and Attend: End-to-End Video Classification viaDynamic Knowledge Evolution Modelin-ACMMM2018] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10447304)
@@ -25,6 +26,13 @@ Computer Vision Paper Reading for ISCAS
 [link](https://www.jianshu.com/p/e416b837351d)
 -  [视频分类的前世今生] 杜肖冰
 [link](https://www.jianshu.com/p/526e90bb2ba0)
+-  [视频理解近期研究进展] 杜肖冰
+[link](https://zhuanlan.zhihu.com/p/36330561)
+-  [video understanding领域的研究方向以及研究成果] 杜肖冰
+[link](https://www.zhihu.com/question/64021205/answer/216217166)
+-  [Dense-captioning Events in Videos] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10473731)
+
 
 
 # 2019/03/25 A组
