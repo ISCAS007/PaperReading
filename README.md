@@ -30,7 +30,7 @@ Computer Vision Paper Reading for ISCAS
 [link](https://zhuanlan.zhihu.com/p/36330561)
 -  [video understanding领域的研究方向以及研究成果] 杜肖冰
 [link](https://www.zhihu.com/question/64021205/answer/216217166)
--  [Dense-captioning Events in Videos] 杜肖冰
+-  [Dense-captioning Events in Videos-ICCV2017] 杜肖冰
 [pdf](http://ddl.escience.cn/sketchvideo/r/10473731)
 
 
