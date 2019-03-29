@@ -18,6 +18,14 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2019/03/29 A组
+-  [TALL: Temporal Activity Localization via Language Query-ICCV2017] 杜肖冰
+[pdf](https://arxiv.org/pdf/1705.02101.pdf)
+-  [Localizing Moments in Video with Natural Language-ICCV2017] 杜肖冰
+[pdf](https://arxiv.org/pdf/1708.01641.pdf)
+-  [Video Understanding 新方向介绍：Grounding Activities and Objects by Language in Videos] 杜肖冰
+[link](https://arxiv.org/pdf/1705.02101.pdf)
+
 
 # 2019/03/26 A组
 -  [Watch, Think and Attend: End-to-End Video Classification viaDynamic Knowledge Evolution Modelin-ACMMM2018] 杜肖冰
