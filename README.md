@@ -23,6 +23,9 @@ Computer Vision Paper Reading for ISCAS
 [pdf](http://ddl.escience.cn/sketchvideo/r/10447304)
 -  [视频分类数据集] 杜肖冰
 [link](https://www.jianshu.com/p/e416b837351d)
+-  [视频分类的前世今生] 杜肖冰
+[link](https://www.jianshu.com/p/526e90bb2ba0)
+
 
 # 2019/03/25 A组
 -  [Temporal Tessellation: A Unified Approach for Video Anal-ICCV2017] 杜肖冰
