@@ -36,6 +36,10 @@ Computer Vision Paper Reading for ISCAS
 [pdf](https://arxiv.org/pdf/1705.02101.pdf)
 -  [Localizing Moments in Video with Natural Language-ICCV2017] 杜肖冰
 [pdf](https://arxiv.org/pdf/1708.01641.pdf)
+-  [Spatio-temporal Person Retrieval via Natural Language Queries-ICCV2017] 杜肖冰
+[pdf](https://arxiv.org/pdf/1704.07945.pdf)
+-  [Object Referring in Videos with Language and Human Gaze-CVPR2018] 杜肖冰
+[pdf](https://arxiv.org/pdf/1801.01582.pdf)
 -  [Video Understanding 新方向介绍：Grounding Activities and Objects by Language in Videos] 杜肖冰
 [link](https://arxiv.org/pdf/1705.02101.pdf)
 
