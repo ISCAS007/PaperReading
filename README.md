@@ -18,6 +18,19 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2019/03/30 A组
+-  [Motion-Appearance Co-Memory Networks for Video Question Answering-CVPR2018] 杜肖冰
+[pdf](https://arxiv.org/pdf/1803.10906.pdf)
+-  [MovieQA: Understanding Stories in Movies through Question-Answering-CVPR2016] 杜肖冰
+[pdf](https://arxiv.org/pdf/1512.02902.pdf)
+-  [Video Question Answering via Hierarchical Spatio-Temporal Attention Networks-IJCAI2017] 杜肖冰
+[pdf](https://www.ijcai.org/proceedings/2017/0492.pdf)
+-  [Video Question Answering via Gradually Refined Attention over Appearance and Motion-ACMMM2017] 杜肖冰
+[pdf](http://delivery.acm.org/10.1145/3130000/3123427/p1645-xu.pdf?ip=124.16.139.126&id=3123427&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2EB04AF4E1D4A7D93E%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1554043974_7b479b88f74442275a552175d10b0855)
+-  [Video Question Answering via Attribute-Augmented Attention Network Learning-SIGIR2017] 杜肖冰
+[pdf](http://delivery.acm.org/10.1145/3090000/3080655/p829-ye.pdf?ip=124.16.139.126&id=3080655&acc=ACTIVE%20SERVICE&key=33E289E220520BFB%2EB04AF4E1D4A7D93E%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1554043969_8aa0a6d7729dca56e2b3ca0464b99bef)
+
+
 # 2019/03/29 A组
 -  [TALL: Temporal Activity Localization via Language Query-ICCV2017] 杜肖冰
 [pdf](https://arxiv.org/pdf/1705.02101.pdf)
