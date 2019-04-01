@@ -18,6 +18,10 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2019/04/01 A组
+-  [Temporal Action Detection (时序动作检测)方向2017年会议论文整理-林天威] 杜肖冰
+[link](https://zhuanlan.zhihu.com/p/31501316)
+
 # 2019/03/30 A组
 -  [Motion-Appearance Co-Memory Networks for Video Question Answering-CVPR2018] 杜肖冰
 [pdf](https://arxiv.org/pdf/1803.10906.pdf)
