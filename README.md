@@ -25,7 +25,7 @@ Computer Vision Paper Reading for ISCAS
 - [Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection](http://shijianping.me/)
 
 # 2019/04/08 A组
-- [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495) [王佳欣(替换杜肖冰)]()
+- [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495) 王佳欣(替换杜肖冰) [ppt](http://ddl.escience.cn/iscas007/r/10476794)
 
 # 2019/01/24 D组
 - [Deep Reinforcement Learning for Unsupervised Video Summarization](https://arxiv.org/abs/1801.00054) 朱倩
