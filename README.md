@@ -18,6 +18,11 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2019/04/08 A组
+-  [Video Analysis 相关领域解读之Temporal Action Detection(时序行为检测)-林天威] 杜肖冰
+[link](https://zhuanlan.zhihu.com/p/26603387)
+
+
 # 2019/04/02 A组
 -  [What Actions are Needed for Understanding Human Actions in Videos?-ICCV2017] 杜肖冰
 [pdf](https://link.zhihu.com/?target=https%3A//arxiv.org/abs/1708.02696)
