@@ -18,6 +18,24 @@ Computer Vision Paper Reading for ISCAS
 | E | 陈紫檀   | 薛涵   | 左然  | 宋建成 |
 
 # next time
+# 2019/04/12 A组
+-  [MovieQA: Story Understanding Benchmark-CVPR2016] 杜肖冰
+[link](http://movieqa.cs.toronto.edu/home/)
+-  [MovieQA: Story Understanding Code-Github] 杜肖冰
+[link](https://github.com/makarandtapaswi/MovieQA_CVPR2016/)
+-  [Visual Semantic Search: Retrieving Videos via Complex Textual Queries-ICCV2014] 杜肖冰
+[link](http://dahua.me/publications/dhl14_vss.pdf)
+
+# 2019/04/11 A组
+-  [Query-focused extractive video summarization-ECCV2016] 杜肖冰
+[link](https://arxiv.org/pdf/1607.05177.pdf)
+-  [Tvsum: Summarizing web videos using titles-CVPR2015] 杜肖冰
+[link](http://openaccess.thecvf.com/content_cvpr_2015/papers/Song_TVSum_Summarizing_Web_2015_CVPR_paper.pdf)
+-  [Multi-task deep visual-semantic embedding for video thumbnail selection-CVPR2015] 杜肖冰
+[link](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Liu_Multi-Task_Deep_Visual-Semantic_2015_CVPR_paper.pdf)
+-  [Person Search with Natural Language Description-CVPR2017] 杜肖冰
+[link](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Person_Search_With_CVPR_2017_paper.pdf)
+
 # 2019/04/09 A组
 -  [Temporal Hierarchical Attention at Category- and Item-Level for Micro-Video Click-Through Prediction-ACMMM2018] 杜肖冰
 [link](http://ddl.escience.cn/sketchvideo/r/10471665)
