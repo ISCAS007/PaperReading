@@ -11,7 +11,7 @@ Computer Vision Paper Reading for ISCAS
 # Group Information
 
 | A | 朱玉影 | 杜肖冰 | 窦毅琨 |
-
+-----|------|-------|--------
 | B | 刘舫   | 张拯明 | 晁文涛 |
 
 | C | 王佳欣 | 石玥   | 林泽一 |
