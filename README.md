@@ -18,6 +18,12 @@ Computer Vision Paper Reading for ISCAS
 | F | 曲文天 | 左然   | 宋建成 | 李锦瑶 |
 
 # next time
+# 2019/04/25 A组
+-  [Finding Actors and Actions in Movies-CVPR2013] 杜肖冰
+[link](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bojanowski_Finding_Actors_and_2013_ICCV_paper.pdf)
+-  [CVPR2019论文汇总]杜肖冰 
+[link](http://bbs.cvmart.net/topics/302/cvpr2019paper)
+
 # 2019/04/14 A组
 -  Cited By Localizing Moments in Video with Natural Language-ICCV2017
 -  [ExCL: Extractive Clip Localization Using Natural Language Descriptions-ArXiv2019] 杜肖冰
