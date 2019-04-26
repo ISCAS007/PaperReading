@@ -18,6 +18,12 @@ Computer Vision Paper Reading for ISCAS
 | F | 曲文天 | 左然   | 宋建成 | 李锦瑶 |
 
 # next time
+# 2019/04/26 A组
+-  [Long-Term Feature Banks for Detailed Video Understanding-CVPR2019] 杜肖冰
+[link](https://arxiv.org/pdf/1812.05038.pdf)
+-  [Long-Term Feature Banks for Detailed Video Understanding-CVPR2019-code] 杜肖冰
+[link](https://github.com/facebookresearch/video-long-term-feature-banks)
+
 # 2019/04/25 A组
 -  [Finding Actors and Actions in Movies-CVPR2013] 杜肖冰
 [link](https://www.cv-foundation.org/openaccess/content_iccv_2013/papers/Bojanowski_Finding_Actors_and_2013_ICCV_paper.pdf)
