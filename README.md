@@ -24,6 +24,9 @@ Computer Vision Paper Reading for ISCAS
 # next time
 - [Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection](http://shijianping.me/)
 
+# 2019/05/20 B组
+- [DeeperLab+PersonLab](http://ddl.escience.cn/iscas007/r/10531467) 王佳欣(替换刘舫) [DeeperLab](http://arxiv.org/abs/1902.05093) [PersonLab](http://arxiv.org/abs/1803.08225)
+
 # 2019/04/08 A组
 - [FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction](https://arxiv.org/abs/1901.03495) 王佳欣(替换杜肖冰) [ppt](http://ddl.escience.cn/iscas007/r/10476794)
 
