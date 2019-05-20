@@ -18,6 +18,14 @@ Computer Vision Paper Reading for ISCAS
 | E | 曲文天 | 左然   | 宋建成 | 李锦瑶 |
 
 # next time
+# 2019/05/19 A组
+-  [TALL: Temporal Activity Localization via Language Query-ICCV2017-code] 杜肖冰
+[link](https://github.com/jiyanggao/TALL)
+
+# 2019/05/18 A组
+-  [AI-Sketcher : A Deep Generative Model for Producing High-Quality Sketches-AAAI2019] 杜肖冰
+[link](https://idvxlab.com/papers/2019AAAI_Sketcher_Cao.pdf)
+
 # 2019/04/26 A组
 -  [Long-Term Feature Banks for Detailed Video Understanding-CVPR2019] 杜肖冰
 [link](https://arxiv.org/pdf/1812.05038.pdf)
