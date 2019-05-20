@@ -21,6 +21,8 @@ Computer Vision Paper Reading for ISCAS
 # 2019/05/19 A组
 -  [TALL: Temporal Activity Localization via Language Query-ICCV2017-code] 杜肖冰
 [link](https://github.com/jiyanggao/TALL)
+-  [Motion-Appearance Co-Memory Networks for Video Question Answering-CVPR2018] 杜肖冰
+[pdf](http://ddl.escience.cn/sketchvideo/r/10531701)
 
 # 2019/05/18 A组
 -  [AI-Sketcher : A Deep Generative Model for Producing High-Quality Sketches-AAAI2019] 杜肖冰
