@@ -13,13 +13,13 @@ Computer Vision Paper Reading for ISCAS
 
 # Group Information
 
-| A | 朱玉影 | 杜肖冰 | 窦毅琨 | 陈紫檀 |
+| A | 朱玉影 | 杜肖冰 | 曲文天 | 陈紫檀 |
 | - | ----- | ------ | ----- | :-:   | 
 | B | 刘舫   | 张拯明 | 晁文涛 | - |
 | C | 王佳欣 | 石玥   | 左德鑫 | - |
 | D | 林泽一 | 吴通通 | 朱倩 | 陈科圻 |
 
-不确定： 宋建成 李伟亨 曲文天 康杨雨轩 左然 李锦瑶
+不确定： 宋建成 李伟亨 康杨雨轩 左然 李锦瑶
 
 # next time
 - [Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection](http://shijianping.me/)
