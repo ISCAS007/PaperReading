@@ -13,16 +13,17 @@ Computer Vision Paper Reading for ISCAS
 
 # Group Information
 
-| A | 朱玉影 | 杜肖冰 | 曲文天 | 陈紫檀 |
+|A|	王佳欣	| 杜肖冰 |	吴通通 |	程坚 |
 | - | ----- | ------ | ----- | :-:   | 
-| B | 刘舫   | 张拯明 | 晁文涛 | - |
-| C | 王佳欣 | 石玥   | 左德鑫 | - |
-| D | 林泽一 | 吴通通 | 朱倩 | 陈科圻 |
-
-不确定： 宋建成 李伟亨 康杨雨轩 左然 李锦瑶
+| B | 刘舫	| 张拯明	| 曲文天 |	陈科圻 |
+| C |	左德鑫	| 石玥	| 陈紫檀 |	宋建成 |
+| D	| 林泽一 |	朱倩	| 左然	| 李锦瑶 |
 
 # next time
 - [Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection](http://shijianping.me/)
+
+# 2019/07/09 A组
+- [Semantic soft segmentation](http://ddl.escience.cn/iscas007/r/10566778) 王佳欣 [project website](http://people.inf.ethz.ch/aksoyy/sss/)
 
 # 2019/05/20 B组
 - [DeeperLab+PersonLab](http://ddl.escience.cn/iscas007/r/10531467) 王佳欣(替换刘舫) [DeeperLab](http://arxiv.org/abs/1902.05093) [PersonLab](http://arxiv.org/abs/1803.08225)
