@@ -20,7 +20,9 @@ Computer Vision Paper Reading for ISCAS
 | D	| 林泽一 |	朱倩	| 左然	| 李锦瑶 |
 
 # next time
-- [Not All Areas Are Equal: Transfer Learning for Semantic Segmentation via Hierarchical Region Selection](http://shijianping.me/)
+
+# 2019/08/19 A组
+- [RePr: Improved Training of Convolutional Filters](https://arxiv.org/abs/1811.07275) [王佳欣](http://ddl.escience.cn/f/Tisb)
 
 # 2019/07/09 A组
 - [Semantic soft segmentation](http://ddl.escience.cn/iscas007/r/10566778) 王佳欣 [project website](http://people.inf.ethz.ch/aksoyy/sss/)
