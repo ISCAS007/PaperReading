@@ -120,7 +120,6 @@ Computer Vision Paper Reading for ISCAS
 > Learning to Estimate 3D Human Pose and Shape from a Single Color Image [PPT](http://ddl.escience.cn/iscas007/r/10139065)/[PDF](http://ddl.escience.cn/iscas007/r/10139060)
 > Stacked Hourglass Networks for Human Pose Estimation [PDF](http://ddl.escience.cn/iscas007/r/10139060)/[tensorflow_code](https://github.com/wbenbihi/hourglasstensorlfow)
 - []() 杜肖冰
-- []() 窦毅琨
 
 # 2018/06/15 E组
 - []() ~朱倩~ 左然（临时调换）
@@ -189,8 +188,8 @@ Computer Vision Paper Reading for ISCAS
 - [DenseNet](http://ddl.escience.cn/iscas007/r/9959018) 王佳欣 slides
 
 # 2018/01/08
-- [Hybrid VAE, Improving Deep Generative Models using Partial Observations](http://ddl.escience.cn/iscas007/r/9959017) 郑文勇 paper
-- [Hybrid VAE, Improving Deep Generative Models using Partial Observations](http://ddl.escience.cn/iscas007/r/9959016) 郑文勇 ppt
+- [Hybrid VAE, Improving Deep Generative Models using Partial Observations](http://ddl.escience.cn/iscas007/r/9959017) paper
+- [Hybrid VAE, Improving Deep Generative Models using Partial Observations](http://ddl.escience.cn/iscas007/r/9959016) ppt
 - [ResNet](http://ddl.escience.cn/iscas007/r/9943612) 王佳欣 paper 
 - [Highway Networks](http://ddl.escience.cn/iscas007/r/9943613) 王佳欣 paper
 - [Recent Advances in Convolutional Neural Networks](https://arxiv.org/abs/1512.07108) 王佳欣 paper 
