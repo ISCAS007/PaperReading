@@ -128,7 +128,6 @@ Computer Vision Paper Reading for ISCAS
 - []() 张拯明 (临时分配到E组)
 
 # 2018/06/08 D组
-- []() 郑文勇
 - [ECGLens](http://ddl.escience.cn/iscas007/r/10114666) ~左然~ 朱倩（临时调换）
 - []() 左德鑫
 
@@ -143,7 +142,7 @@ Computer Vision Paper Reading for ISCAS
 - []() 晁文涛
 
 # 2018/05/21 A组
-- [3D point](http://ddl.escience.cn/iscas007/r/10099730) 窦毅琨
+- [3D point](http://ddl.escience.cn/iscas007/r/10099730) 
 - BodyNet: Volumetric Inference of 3D Human Body Shapes [project page](www.di.ens.fr/willow/research/bodynet/)/[pdf](http://ddl.escience.cn/iscas007/r/10099743)/[ppt](http://ddl.escience.cn/iscas007/r/10099744) 朱玉影
 >Abstract: BodyNet is an end-to-end trainable network for human shape estimation that benefits from (i) a volumetric 3D loss, (ii) a  multi-view re-projection loss, and (iii) intermediate supervision of 2D pose, 2D body part segmentation, and 3D pose.
   
@@ -158,7 +157,7 @@ Computer Vision Paper Reading for ISCAS
 
 # 2018/04/23
 - [Instance Segmentation](http://ddl.escience.cn/iscas007/r/10069318) 王佳欣
-- [pose](http://ddl.escience.cn/iscas007/r/10078155) 郑文勇
+- [pose](http://ddl.escience.cn/iscas007/r/10078155) 
 
 # 2018/04/15
 - [SketchParse: Towards Rich Descriptions for Poorly Drawn Sketches using Multi-Task Hierarchical Deep Networks](http://ddl.escience.cn/iscas007/r/10069082) 刘舫
